@@ -64,15 +64,19 @@ Brute-force attack when both grid dimensions and keys are unknown. The program a
 
 ---
 
+
 ## 📊 Sample Output
 
-The program outputs:
-- The ciphertext being analyzed
-- Grid dimensions (if known)
-- Total number of key combinations tested
-- The best decryption result with its row and column keys
+![Encryption Task Output](img/output1.png)
+*Figure 1: Encryption task output showing plaintext and ciphertext*
 
-Results are displayed in a popup window sorted by score (highest first), making it easy to identify the correct decryption.
+![Brute Force Attack Results](img/output3.png)
+
+*Figure 1: Brute force attack showing all possible decryption results sorted by score*
+
+![Best Decryption Result](img/output3-1.png)
+
+*Figure 2: The highest-scoring decryption result with its row and column keys*
 
 ---
 
