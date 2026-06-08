@@ -67,14 +67,14 @@ Brute-force attack when both grid dimensions and keys are unknown. The program a
 
 ## 📊 Sample Output
 
-![Encryption Task Output](img/output1.png)
+![Encryption Task Output](img/output1.jpg)
 *Figure 1: Encryption task output showing plaintext and ciphertext*
 
-![Brute Force Attack Results](img/output3.png)
+![Brute Force Attack Results](img/output3.jpg)
 
 *Figure 1: Brute force attack showing all possible decryption results sorted by score*
 
-![Best Decryption Result](img/output3-1.png)
+![Best Decryption Result](img/output3-1.jpg)
 
 *Figure 2: The highest-scoring decryption result with its row and column keys*
 
